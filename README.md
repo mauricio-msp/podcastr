@@ -5,7 +5,7 @@
 ## Podcastr
 
 [![author](https://img.shields.io/badge/author-mauricioporfirio-blue?style=flat-square)](https://github.com/mauricio-msp)
-[![watchers](https://img.shields.io/badge/author-mauricioporfirio-blue?style=flat-square)](https://github.com/mauricio-msp/podcastr/watchers)
+[![watchers](https://img.shields.io/badge/watchers-podcastr-blue?style=flat-square)](https://github.com/mauricio-msp/podcastr/watchers)
 [![stars](https://img.shields.io/github/stars/mauricio-msp/podcastr?style=flat-square)](https://github.com/mauricio-msp/podcastr/stargazers)
 [![forks](https://img.shields.io/github/forks/mauricio-msp/podcastr?style=flat-square)](https://github.com/mauricio-msp/podcastr/network/members)
 [![license](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
@@ -15,7 +15,7 @@
 ## 🎧 Projeto 
 - Podcastr é uma plataforma construída para a transmissão de podcast.
 
-## ✨ Tecnologias
+## 🚀 Tecnologias
 
 - [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
