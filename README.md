@@ -10,13 +10,12 @@
 [![forks](https://img.shields.io/github/forks/mauricio-msp/podcastr?style=flat-square)](https://github.com/mauricio-msp/podcastr/network/members)
 [![license](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
-<h4 align="center">
-  Podcastr é uma plataforma construída para a transmissão de podcast.
-</h4>
-
 ![Podcastr preview](.github/project-preview.png)
 
-## Tecnologias
+## 🎧 Projeto 
+- Podcastr é uma plataforma construída para a transmissão de podcast.
+
+## ✨ Tecnologias
 
 - [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
